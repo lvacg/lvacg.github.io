@@ -14,8 +14,7 @@
 	<a href="#" style="--clr:#ff1867"><span>工具箱</span><i></i></a>
 	<a href="#" style="--clr:#6eff3e"><span>敬请期待</span><i></i></a>
     <a href="#" style="--clr:#ff5511"><span>敬请期待</span><i></i></a>
-    <a href="#" style="--clr:#ff00ff"><span>敬请期待</span><i></i></a>
-	<script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <a href="#" style="--clr:#ff00ff"><span>敬请期待</span><i></i></a>	
 	<HR style="border: 0.5px solid #888888" width="30%" size=1>
 	<a2 href="https://beian.miit.gov.cn/#/Integrated/index">冀ICP备:xxxxxx</a2>
     <a1>Copyright&nbsp;&nbsp;2021 - 2022&nbsp;&nbsp;绿帽子工作室版权所有</a1>
