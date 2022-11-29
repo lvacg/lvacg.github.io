@@ -10,7 +10,7 @@
 		<div class="sx"></div>        
         <p1>有钱终成眷属&nbsp;&nbsp;没钱亲眼目睹</p1>
         <!--菜单栏-->
-	<a href="[lvacg.com](https://lvacg.com/)" style="--clr:#1e9bff"><span>首页</span><i></i></a>
+	<a href="https://lvacg.com" style="--clr:#1e9bff"><span>首页</span><i></i></a>
 	<a href="#" style="--clr:#ff1867"><span>工具箱</span><i></i></a>
 	<a href="#" style="--clr:#6eff3e"><span>敬请期待</span><i></i></a>
     <a href="#" style="--clr:#ff5511"><span>敬请期待</span><i></i></a>
